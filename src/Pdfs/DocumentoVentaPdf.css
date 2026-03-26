@@ -1,0 +1,18 @@
+.tableReportPdf {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  /* Estilos para las celdas de encabezado */
+  .tableReportPdf th {
+    background-color: #f8f9fa;
+    font-weight: bold;
+    border: 1px solid #dee2e6;
+    padding: 8px;
+  }
+  
+  /* Estilos para las celdas de datos */
+  .tableReportPdf td {
+    border: 1px solid #dee2e6;
+    padding: 8px;
+  }

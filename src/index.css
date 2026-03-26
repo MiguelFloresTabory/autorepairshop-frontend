@@ -1,0 +1,11 @@
+:root{
+    --bgBtn:#1C8BE3;
+    --bgLogin:#D6E8F1;
+    --colorTextInput:#263E6E;
+    --colorTextPlaceholder:#546E75;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
