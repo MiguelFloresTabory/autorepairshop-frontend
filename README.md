@@ -34,4 +34,4 @@ Puede servir como punto de partida o referencia para quienes estén aprendiendo.
 
 El backend se desarrollo con C# con .net Core, mediante un API Rest y en Base de datos SQL Server
 Puedes buscar el proyecto C# en el respositorio "autorepairshop-backend" la Base de datos SQL Server, el script esta en el archivo scriptBD en la raiz del backend.
-[Repositorio BackEnd en C#]([https://github.com/usuario/proyecto](https://github.com/MiguelFloresTabory/autorepairshop-backend.git))
+[Repositorio BackEnd en C#](https://github.com/MiguelFloresTabory/autorepairshop-backend.git)
