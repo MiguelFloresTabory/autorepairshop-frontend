@@ -1,70 +1,37 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📌 Proyecto Frontend – React 18
 
-## Available Scripts
+Este proyecto fue desarrollado en 2023 como parte de un trabajo universitario.
 
-In the project directory, you can run:
+Fue realizado en poco tiempo y principalmente con fines académicos. La implementación se hizo de manera rápida, por lo que no sigue estrictamente buenas prácticas, patrones avanzados ni una arquitectura optimizada.
 
-### `npm start`
+# ⚠️ Advertencia:
+El código puede no estar estructurado de la mejor manera y puede contener mejoras pendientes. Se recomienda usarlo como referencia básica y no como ejemplo de arquitectura profesional.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 🛠️ Tecnologías utilizadas
+React JS 18
+JavaScript
+HTML5
+CSS3
+# 📚 Contexto del proyecto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+El desarrollo está inspirado en la estructura y lógica de un sistema utilizado en mi entorno laboral. Se adaptó la idea principal para cumplir con los requisitos académicos solicitados en la universidad.
 
-### `npm test`
+No es un proyecto empresarial ni de producción, sino un ejercicio práctico para aplicar conceptos de desarrollo frontend con React y para aprobar un curso.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 🎯 Propósito
 
-### `npm run build`
+Este repositorio se comparte como material de apoyo para:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Estudiantes que estén comenzando con React
+Proyectos universitarios
+Prácticas básicas de frontend
+Ejemplos simples de estructura en React 18
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Puede servir como punto de partida o referencia para quienes estén aprendiendo.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# BackEnd
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+El backend se desarrollo con C# con .net Core, mediante un API Rest y en Base de datos SQL Server
+Puedes buscar el proyecto C# en el respositorio "autorepairshop-backend" la Base de datos SQL Server, el script esta en el archivo scriptBD en la raiz del backend.
+[Repositorio BackEnd en C#]([https://github.com/usuario/proyecto](https://github.com/MiguelFloresTabory/autorepairshop-backend.git))
